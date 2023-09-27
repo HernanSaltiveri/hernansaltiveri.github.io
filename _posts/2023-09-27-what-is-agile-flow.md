@@ -10,7 +10,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ei
 #image: https://media0.giphy.com/media/BCs20EzQnYRXi/giphy.gif?cid=ecf05e47f232b1b79d83818de57145545e1c0893e38473eb&rid=giphy.gif
 image: https://www.cflowapps.com/wp-content/uploads/2022/08/agle_wrkflw.jpg
 optimized_image: https://www.cflowapps.com/wp-content/uploads/2022/08/agle_wrkflw.jpg
-category: life
+category: Agile
 tags:
   - books
   - read

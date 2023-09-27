@@ -10,7 +10,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ei
 #image: https://media0.giphy.com/media/BCs20EzQnYRXi/giphy.gif?cid=ecf05e47f232b1b79d83818de57145545e1c0893e38473eb&rid=giphy.gif
 image: https://software.af.mil/wp-content/uploads/2019/08/devops-loop.svg
 optimized_image: https://software.af.mil/wp-content/uploads/2019/08/devops-loop.svg
-category: life
+category: DevOps
 tags:
   - books
   - read
