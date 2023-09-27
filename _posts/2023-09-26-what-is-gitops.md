@@ -18,18 +18,6 @@ author: hernansaltiveri
 paginate: true
 ---
 
-<script type="module">
-  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
-</script>
-
-<pre class="mermaid">
-    graph LR
-    A --- B
-    B-->C[fa:fa-ban forbidden]
-    B-->D(fa:fa-spinner);
-</pre>
-
-
 GitOps is a modern approach to managing and automating the deployment and operations of software applications and infrastructure. It leverages the Git version control system as the central source of truth for defining and managing the desired state of your systems. GitOps promotes a declarative and automated way of managing infrastructure and applications, making it easier to achieve continuous integration and continuous delivery (CI/CD) and ensuring the desired state is always reflected in the actual state.
 
 ## Key Concepts
