@@ -8,8 +8,8 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ei
 #image: https://imag.malavida.com/mvimgbig/download-fs/drawboard-pdf-15322-5.jpg
 #image: https://media2.giphy.com/media/l1IY2AbVzZ6f7tGQo/giphy.gif?cid=ecf05e47c46f4c993306fa86540461d15f358257b387d43f&rid=giphy.gif
 #image: https://media0.giphy.com/media/BCs20EzQnYRXi/giphy.gif?cid=ecf05e47f232b1b79d83818de57145545e1c0893e38473eb&rid=giphy.gif
-image: https://ugc.futurelearn.com/uploads/assets/87/cc/87ccdbe5-2de8-4e93-9691-6fea5049f448.png
-optimized_image: https://ugc.futurelearn.com/uploads/assets/87/cc/87ccdbe5-2de8-4e93-9691-6fea5049f448.png
+image: https://www.investopedia.com/thmb/QYWqTkyDW-yfpVsjmAP0Mf2bw2Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/project-management.asp-Final-0c4cd7f77aad40228e7311783c27f728.png
+optimized_image: hhttps://www.investopedia.com/thmb/QYWqTkyDW-yfpVsjmAP0Mf2bw2Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/project-management.asp-Final-0c4cd7f77aad40228e7311783c27f728.png
 category: Agile
 tags:
   - books
