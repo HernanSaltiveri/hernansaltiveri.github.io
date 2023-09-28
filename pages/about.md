@@ -5,7 +5,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/logoMarcheConsulting.png" alt="Hernan Saltiveri" width="200">
+<img class="img-rounded" src="/assets/img/uploads/logoMarche.png" alt="Hernan Saltiveri" width="200">
 
 # About
 
