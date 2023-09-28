@@ -3,7 +3,7 @@ date: 2018-11-22 12:26:40
 layout: post
 title: What is Agile Flow?
 subtitle: WWhy is so important to use?
-description: Agile flow refers to the way work is managed and executed in an Agile software development or project management environment. 
+description: Agile flow refers to the way work is managed and executed in an Agile software development or project management environment... 
 #image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
 #image: https://imag.malavida.com/mvimgbig/download-fs/drawboard-pdf-15322-5.jpg
 #image: https://media2.giphy.com/media/l1IY2AbVzZ6f7tGQo/giphy.gif?cid=ecf05e47c46f4c993306fa86540461d15f358257b387d43f&rid=giphy.gif
