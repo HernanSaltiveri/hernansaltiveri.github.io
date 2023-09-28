@@ -2,7 +2,7 @@
 date: 2018-11-22 12:26:40
 layout: post
 title: What is Agile Project Management?
-subtitle: Why is so important to use mlops approach
+subtitle: Why is so important to use agile project management
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 #image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
 #image: https://imag.malavida.com/mvimgbig/download-fs/drawboard-pdf-15322-5.jpg
