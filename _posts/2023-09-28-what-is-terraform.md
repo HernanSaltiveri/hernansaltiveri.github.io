@@ -3,7 +3,7 @@ date: 2018-11-22 12:26:40
 layout: post
 title: What is Terraform?
 subtitle: Why is so important to use?
-description: Terraform is an open-source **infrastructure as code (IaC)** tool developed by HashiCorp. It enables users to define and provision infrastructure resources, such as virtual machines, networks, storage, and more, in a declarative and version-controlled manner. Terraform simplifies the process of managing infrastructure by allowing you to describe your requirements using a human-readable configuration language and automating the creation and management of resources across various cloud providers and on-premises environments.
+description: Terraform is an open-source **infrastructure as code (IaC)** tool developed by HashiCorp. 
 #image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
 #image: https://imag.malavida.com/mvimgbig/download-fs/drawboard-pdf-15322-5.jpg
 #image: https://media2.giphy.com/media/l1IY2AbVzZ6f7tGQo/giphy.gif?cid=ecf05e47c46f4c993306fa86540461d15f358257b387d43f&rid=giphy.gif
