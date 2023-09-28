@@ -8,7 +8,7 @@ tags:
   - jekyll
   - theme
   - netlify
-email: youremail@xyz.com
+email: infomarcheconsulting@gmail.com
 disqus_username: disqus_username
 show_hero: true
 menu:
@@ -24,12 +24,12 @@ menu:
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
+github_username: hernansaltiveri
 facebook_username: facebook_username
-twitter_username: twitter_username
+twitter_username: hernansaltiveri
 instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+linkedin_username: hernansaltiveri
+medium_username: hernansaltiveri
 
 
 # Posts Settings
