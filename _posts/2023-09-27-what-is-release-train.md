@@ -18,6 +18,8 @@ author: hernansaltiveri
 paginate: true
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aW2m-BtCJyE?si=afThLiFKIhcDXkUh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 A **release train** is a term commonly used in Agile software development methodologies, particularly in the context of the Scaled Agile Framework (SAFe). It refers to a time-boxed planning and delivery event that enables multiple Agile teams to synchronize their work and coordinate the release of a larger software product or solution.
 
 Here are some key points about release trains:

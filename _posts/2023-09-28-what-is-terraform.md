@@ -18,6 +18,8 @@ author: hernansaltiveri
 paginate: true
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lIaUz2GAqEQ?si=FqOlY6guE_AqaBcb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 # Terraform
 
 Terraform is an open-source **infrastructure as code (IaC)** tool developed by HashiCorp. It enables users to define and provision infrastructure resources, such as virtual machines, networks, storage, and more, in a declarative and version-controlled manner. Terraform simplifies the process of managing infrastructure by allowing you to describe your requirements using a human-readable configuration language and automating the creation and management of resources across various cloud providers and on-premises environments.

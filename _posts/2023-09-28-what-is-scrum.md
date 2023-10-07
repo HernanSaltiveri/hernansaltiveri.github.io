@@ -18,6 +18,8 @@ author: hernansaltiveri
 paginate: true
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iJ_sl6J8PRg?si=TJPRtO1V0wITQnfD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 # Agile Scrum
 
 **Agile Scrum** is a widely used framework for Agile software development. It is a structured, iterative approach to project management and product development that promotes collaboration, transparency, and adaptability among cross-functional teams. Agile Scrum is particularly well-suited for complex projects where requirements may change or evolve over time.

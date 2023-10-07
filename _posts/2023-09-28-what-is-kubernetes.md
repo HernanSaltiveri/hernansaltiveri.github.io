@@ -18,6 +18,8 @@ author: hernansaltiveri
 paginate: true
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PziYflu8cB8?si=t5NFf5YhV0r_IuYT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 # Kubernetes
 
 **Kubernetes**, often abbreviated as **K8s** (due to 8 characters between 'K' and 's'), is an open-source container orchestration platform. Originally developed by Google and now maintained by the Cloud Native Computing Foundation (CNCF), Kubernetes automates the deployment, scaling, and management of containerized applications. It provides a robust framework for managing container workloads and services, enabling organizations to build and run scalable, resilient, and portable applications using containers.

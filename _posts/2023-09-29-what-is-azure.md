@@ -18,6 +18,8 @@ author: hernansaltiveri
 paginate: true
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfZ0zk5Zzcw?si=xWu-A0zmQHB3iEj5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 **Azure**
 
 Azure, also known as Microsoft Azure, is a cloud computing platform and set of services offered by Microsoft. It provides a wide range of cloud-based computing resources and services, including infrastructure as a service (IaaS), platform as a service (PaaS), and software as a service (SaaS) offerings.

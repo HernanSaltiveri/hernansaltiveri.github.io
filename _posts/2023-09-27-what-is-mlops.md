@@ -18,6 +18,8 @@ author: hernansaltiveri
 paginate: true
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MrurgA-IkjA?si=_qybq2bNBsKOxWFL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 # MLOps
 
 **MLOps**, short for *Machine Learning Operations*, is a set of practices and tools used to streamline and automate the end-to-end machine learning (ML) lifecycle, from model development to deployment and monitoring. It combines elements of DevOps (Development and Operations) with ML to improve the efficiency, reliability, and scalability of machine learning systems. MLOps aims to bridge the gap between data science and IT operations, ensuring that machine learning models are not only accurate but also reliable and maintainable in production environments.

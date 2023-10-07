@@ -18,6 +18,8 @@ author: hernansaltiveri
 paginate: true
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xrgk023l4lI?si=PYlTnHOB53sTRZuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 # Understanding DevOps: Bridging the Gap Between Development and Operations
 
 In the world of software development and IT operations, a revolutionary approach has emerged that's transforming the way organizations build, deploy, and manage software systems. This approach is known as **DevOps**. In this article, we'll explore what DevOps is, its key principles, benefits, and why it has become a crucial practice in the tech industry.

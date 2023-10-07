@@ -18,6 +18,8 @@ author: hernansaltiveri
 paginate: true
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/thsFsPnUHRA?si=0qBEXdhf21QkVIih" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 **Agile Project Management**
 
 Agile project management is an *iterative* and *flexible* approach to managing projects, emphasizing:

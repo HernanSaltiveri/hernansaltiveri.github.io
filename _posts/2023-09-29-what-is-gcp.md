@@ -18,6 +18,8 @@ author: hernansaltiveri
 paginate: true
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kzKFuHk8ovk?si=qm67PmolOCFLdpF7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 # Google Cloud Platform (GCP)
 
 Google Cloud Platform, commonly abbreviated as GCP, is a suite of cloud computing services and products offered by Google. GCP provides a wide range of cloud-based solutions, including infrastructure as a service (IaaS), platform as a service (PaaS), and software as a service (SaaS) offerings. These services can be used for various purposes such as hosting websites and applications, data storage and analysis, machine learning, artificial intelligence, and more.

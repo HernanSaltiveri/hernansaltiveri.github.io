@@ -18,6 +18,8 @@ author: hernansaltiveri
 paginate: true
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xRMPKQweySE?si=rb9IXFDr432KAwUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 # Ansible
 
 **Ansible** is an open-source automation tool used for configuration management, application deployment, task automation, and orchestration. It simplifies IT infrastructure management by enabling users to define tasks and configurations in a human-readable, declarative language. Ansible is a popular choice in DevOps and system administration due to its ease of use and ability to automate repetitive tasks.

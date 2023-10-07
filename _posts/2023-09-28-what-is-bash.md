@@ -18,6 +18,8 @@ author: hernansaltiveri
 paginate: true
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I4EWvMFj37g?si=beicPp-mEqcgDn2p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 # Bash
 
 **Bash**, short for "Bourne Again Shell," is a widely used Unix and Linux command-line shell and scripting language. It serves as the default command-line interface (CLI) for Unix-like operating systems, offering powerful features for command execution, automation, and scripting.

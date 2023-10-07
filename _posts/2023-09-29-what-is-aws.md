@@ -18,6 +18,8 @@ author: hernansaltiveri
 paginate: true
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3XFODda6YXo?si=Ck1DtWQFJwkdDAkQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 # What is AWS?
 
 **AWS** stands for **Amazon Web Services**. It is a comprehensive cloud computing platform provided by Amazon, which offers a wide range of services and tools for businesses, developers, and individuals. AWS allows users to access and utilize computing resources, storage, databases, machine learning, analytics, and more, all through the internet.
