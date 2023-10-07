@@ -18,7 +18,7 @@ author: hernansaltiveri
 paginate: true
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfZ0zk5Zzcw?si=xWu-A0zmQHB3iEj5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 **Azure**
 
@@ -47,3 +47,5 @@ Azure, also known as Microsoft Azure, is a cloud computing platform and set of s
 10. *Scalability and Elasticity*: Azure offers the ability to scale resources up or down based on demand, allowing organizations to pay for only the resources they use.
 
 Azure competes with other major cloud providers such as Amazon Web Services (AWS) and Google Cloud Platform (GCP) in the rapidly growing cloud computing market. Organizations use Azure for a wide range of purposes, including web hosting, data storage and analysis, application development, and more. It is a versatile platform that caters to the needs of businesses of all sizes and industries.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfZ0zk5Zzcw?si=xWu-A0zmQHB3iEj5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

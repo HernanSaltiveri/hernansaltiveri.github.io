@@ -18,7 +18,7 @@ author: hernansaltiveri
 paginate: true
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kzKFuHk8ovk?si=qm67PmolOCFLdpF7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 # Google Cloud Platform (GCP)
 
@@ -51,3 +51,6 @@ Google Cloud Platform, commonly abbreviated as GCP, is a suite of cloud computin
 - **Cloud AI:** Suite of machine learning and artificial intelligence services, including AutoML, Vision AI, Natural Language AI, and more.
 
 Google Cloud Platform competes with other major cloud providers like Amazon Web Services (AWS) and Microsoft Azure and is used by organizations of all sizes to leverage cloud computing resources and services to scale and optimize their operations and applications.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kzKFuHk8ovk?si=qm67PmolOCFLdpF7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

@@ -18,7 +18,6 @@ author: hernansaltiveri
 paginate: true
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lIaUz2GAqEQ?si=FqOlY6guE_AqaBcb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Terraform
 
@@ -41,3 +40,5 @@ Terraform is an open-source **infrastructure as code (IaC)** tool developed by H
 7. **Version Control:** Terraform configurations can be stored in version control systems (e.g., Git) to track changes, collaborate with team members, and maintain a history of infrastructure modifications.
 
 Terraform is widely adopted in DevOps and cloud-native environments because it offers a consistent and automated approach to infrastructure management. It leverages infrastructure as code principles, providing repeatability, scalability, and the ability to automate infrastructure provisioning and updates. This contributes to increased operational efficiency and reliability.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lIaUz2GAqEQ?si=FqOlY6guE_AqaBcb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

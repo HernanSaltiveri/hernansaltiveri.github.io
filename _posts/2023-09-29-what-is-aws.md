@@ -18,8 +18,6 @@ author: hernansaltiveri
 paginate: true
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3XFODda6YXo?si=Ck1DtWQFJwkdDAkQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 # What is AWS?
 
 **AWS** stands for **Amazon Web Services**. It is a comprehensive cloud computing platform provided by Amazon, which offers a wide range of services and tools for businesses, developers, and individuals. AWS allows users to access and utilize computing resources, storage, databases, machine learning, analytics, and more, all through the internet.
@@ -51,3 +49,5 @@ Here are some key aspects of AWS:
 12. **Blockchain**: AWS offers blockchain services such as *Amazon Managed Blockchain* to create and manage blockchain networks.
 
 AWS is known for its scalability, reliability, and flexibility, making it a popular choice for businesses of all sizes to build and deploy applications, websites, and services in the cloud. Users pay for the AWS resources they use on a pay-as-you-go basis, which can be cost-effective and efficient for both startups and large enterprises.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3XFODda6YXo?si=Ck1DtWQFJwkdDAkQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

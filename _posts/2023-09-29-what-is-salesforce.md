@@ -18,7 +18,7 @@ author: hernansaltiveri
 paginate: true
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QH44R1oOvOQ?si=uqM4Cs7BfVUxJzeT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 # Salesforce
 
@@ -47,3 +47,5 @@ Salesforce is a leading customer relationship management (CRM) platform and clou
 - **Einstein AI:** Salesforce incorporates artificial intelligence (AI) capabilities through its Einstein platform, offering predictive analytics, chatbots, and AI-driven insights to enhance user experiences and business processes.
 
 Salesforce is known for its scalability, flexibility, and customization options. It is used by a wide range of businesses, from small startups to large enterprises, across various industries to improve customer relationships, increase sales efficiency, and drive growth. Additionally, Salesforce offers cloud-based solutions, which means users can access their data and applications from anywhere with an internet connection.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QH44R1oOvOQ?si=uqM4Cs7BfVUxJzeT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
