@@ -1,5 +1,5 @@
 ---
-date: 2023-09-22 12:26:40
+date: 2023-09-27 12:26:40
 layout: post
 title: What is DevOps?
 subtitle: Importance of the devops approach

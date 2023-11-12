@@ -1,5 +1,5 @@
 ---
-date: 2023-09-222023-09-22 12:26:40
+date: 2023-09-28 12:26:40
 layout: post
 title: What is Agile Project Management?
 subtitle: Why is so important to use agile project management
