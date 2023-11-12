@@ -2,7 +2,7 @@
 date: 2023-09-22 12:26:40
 layout: post
 title: What is DevOps?
-subtitle: Why is so important to use devops approach
+subtitle: Importance of the devops approach
 description: In the world of software development and IT operations, a revolutionary approach has emerged that's transforming the way organizations build, deploy, and manage software systems...
 #image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
 #image: https://imag.malavida.com/mvimgbig/download-fs/drawboard-pdf-15322-5.jpg

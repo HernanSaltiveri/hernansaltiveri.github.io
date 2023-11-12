@@ -2,7 +2,7 @@
 date: 2023-09-222023-09-22 12:26:40
 layout: post
 title: What is MLOps?
-subtitle: Why is so important to use mlops approach
+subtitle: Importance of the mlops approach
 description: MLOps, short for Machine Learning Operations, is a set of practices and tools used to streamline and automate the end-to-end machine learning (ML) lifecycle MLOps, short for Machine Learning Operations, is a set of practices and tools used to streamline and automate the end-to-end machine learning (ML) lifecycle...
 #image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
 #image: https://imag.malavida.com/mvimgbig/download-fs/drawboard-pdf-15322-5.jpg
