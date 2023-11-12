@@ -10,7 +10,7 @@ description: Terraform is an open-source **infrastructure as code (IaC)** tool d
 #image: https://media0.giphy.com/media/BCs20EzQnYRXi/giphy.gif?cid=ecf05e47f232b1b79d83818de57145545e1c0893e38473eb&rid=giphy.gif
 image: https://lh5.googleusercontent.com/KMZupO9bRik3N9G_M1u1zSuAwlu2H41gm8oh3fixa6QSMUCTQRFlO41KzYRzrxtqjRjqKsNPyalUiLQ-1Caj0KEE4FUt8v_kFhHkvGOUBQvi4cji29htbCjNPW0M0p_UokAtjwGe
 optimized_image: https://lh5.googleusercontent.com/KMZupO9bRik3N9G_M1u1zSuAwlu2H41gm8oh3fixa6QSMUCTQRFlO41KzYRzrxtqjRjqKsNPyalUiLQ-1Caj0KEE4FUt8v_kFhHkvGOUBQvi4cji29htbCjNPW0M0p_UokAtjwGe
-category: DevOpss
+category: DevOps
 tags:
   - books
   - read
