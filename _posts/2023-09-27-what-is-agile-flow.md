@@ -18,12 +18,20 @@ author: hernansaltiveri
 paginate: true
 ---
 
+**Table of contents**
+1. [Agile Flow](#agileflow)
+1. [Key Concepts](#keyconcepts)
+
+-----
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/43vJ--w8BUQ?si=MwrexS8gS1j2oESz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-# Agile Flow
+<a name="agileflow"></a>
+## Agile Flow
 
 Agile flow refers to the way work is managed and executed in an **Agile** software development or project management environment. It emphasizes flexibility, collaboration, and responsiveness to change, and it is often associated with Agile methodologies like *Scrum*, *Kanban*, and *Extreme Programming (XP)*. Agile flow focuses on delivering value to customers or stakeholders quickly and continuously through iterative and incremental processes.
 
+<a name="keyconcepts"></a>
 **Key principles and characteristics** of Agile flow include:
 
 1. **Iterative and Incremental Development**: Work is divided into small, manageable increments or iterations, typically lasting 2-4 weeks. Teams work on these iterations, delivering a potentially shippable product increment at the end of each cycle.
