@@ -18,10 +18,18 @@ author: hernansaltiveri
 paginate: true
 ---
 
+# Table of contents
+1. [Key Concepts](#keyconcepts)
+1. [Benifets of GitOps](#benifits)
+1. [GitOps Tools](#tools)
+1. [Getting Started](#gettingstarted)
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dIaX5IhRqkI?si=1xNGYmJw6MyMwPrd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 GitOps is a modern approach to managing and automating the deployment and operations of software applications and infrastructure. It leverages the Git version control system as the central source of truth for defining and managing the desired state of your systems. GitOps promotes a declarative and automated way of managing infrastructure and applications, making it easier to achieve continuous integration and continuous delivery (CI/CD) and ensuring the desired state is always reflected in the actual state.
 
+<a name="keyconcepts"></a>
 ## Key Concepts
 
 ### Git as the Single Source of Truth
@@ -40,6 +48,7 @@ Automation is a fundamental aspect of GitOps. Continuous Integration (CI) pipeli
 
 GitOps benefits from the version control features of Git. This allows for tracking changes, rolling back to previous states, and auditing who made specific changes and when. Git's branching and merging capabilities are also useful for managing parallel development efforts.
 
+<a name="benifits"></a>
 ## Benefits of GitOps
 
 1. **Consistency**: GitOps ensures that the desired state is consistently applied across all environments, reducing configuration drift and the "works on my machine" problem.
@@ -52,6 +61,7 @@ GitOps benefits from the version control features of Git. This allows for tracki
 
 5. **Scalability**: GitOps can scale to manage complex systems and large-scale infrastructure as code projects.
 
+<a name="tools"></a>
 ## GitOps Tools
 
 Several tools and platforms support GitOps practices, including:
@@ -61,6 +71,7 @@ Several tools and platforms support GitOps practices, including:
 - [Terraform](https://www.terraform.io/): A widely used infrastructure as code tool that can be used in GitOps workflows.
 - [Jenkins X](https://jenkins-x.io/): Extends Jenkins CI/CD to support GitOps for cloud-native applications.
 
+<a name="gettingstarted"></a>
 ## Getting Started
 
 To get started with GitOps, you'll typically follow these steps:
