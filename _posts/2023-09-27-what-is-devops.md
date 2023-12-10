@@ -8,8 +8,8 @@ description: In the world of software development and IT operations, a revolutio
 #image: https://imag.malavida.com/mvimgbig/download-fs/drawboard-pdf-15322-5.jpg
 #image: https://media2.giphy.com/media/l1IY2AbVzZ6f7tGQo/giphy.gif?cid=ecf05e47c46f4c993306fa86540461d15f358257b387d43f&rid=giphy.gif
 #image: https://media0.giphy.com/media/BCs20EzQnYRXi/giphy.gif?cid=ecf05e47f232b1b79d83818de57145545e1c0893e38473eb&rid=giphy.gif
-image: https://software.af.mil/wp-content/uploads/2019/08/devops-loop.svg
-optimized_image: https://software.af.mil/wp-content/uploads/2019/08/devops-loop.svg
+image: https://en.wikipedia.org/wiki/DevOps_toolchain#/media/File:Devops-toolchain.svg
+optimized_image: https://en.wikipedia.org/wiki/DevOps_toolchain#/media/File:Devops-toolchain.svg
 category: DevOps
 tags:
   - books
