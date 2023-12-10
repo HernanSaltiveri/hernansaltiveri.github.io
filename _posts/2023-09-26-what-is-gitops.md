@@ -18,7 +18,7 @@ author: hernansaltiveri
 paginate: true
 ---
 
-Table of contents
+**Table of contents**
 1. [Key Concepts](#keyconcepts)
 1. [Benifets of GitOps](#benifits)
 1. [GitOps Tools](#tools)
