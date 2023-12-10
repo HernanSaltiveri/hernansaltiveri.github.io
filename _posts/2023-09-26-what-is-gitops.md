@@ -18,12 +18,12 @@ author: hernansaltiveri
 paginate: true
 ---
 
-# Table of contents
+Table of contents
 1. [Key Concepts](#keyconcepts)
 1. [Benifets of GitOps](#benifits)
 1. [GitOps Tools](#tools)
 1. [Getting Started](#gettingstarted)
-
+-----
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dIaX5IhRqkI?si=1xNGYmJw6MyMwPrd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
