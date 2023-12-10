@@ -22,8 +22,8 @@ paginate: true
 1. [What is DevOps](#whatisdevops)
 1. [Key DevOps Principles](#keydevopsprinciples)
 1. [Benefits of DevOps](#benefits)
-1. [DevOps Tools](#devopsbenefits)
-1. [Best Practices](#devopsbenefits)
+1. [DevOps Tools](#devopstools)
+1. [Best Practices](#bestpractices)
 1. [Conclusion](#conclusion)
 
 
