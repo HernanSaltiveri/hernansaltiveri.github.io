@@ -26,11 +26,11 @@ paginate: true
 1. [Best Practices](#bestpractices)
 1. [Conclusion](#conclusion)
 
-
-
 -----
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Xrgk023l4lI?si=PYlTnHOB53sTRZuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 
 # Understanding DevOps: Bridging the Gap Between Development and Operations
 
