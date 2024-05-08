@@ -8,7 +8,8 @@ description: GitOps is a modern approach to managing and automating the deployme
 #image: https://imag.malavida.com/mvimgbig/download-fs/drawboard-pdf-15322-5.jpg
 #image: https://media2.giphy.com/media/l1IY2AbVzZ6f7tGQo/giphy.gif?cid=ecf05e47c46f4c993306fa86540461d15f358257b387d43f&rid=giphy.gif
 #image: https://media0.giphy.com/media/BCs20EzQnYRXi/giphy.gif?cid=ecf05e47f232b1b79d83818de57145545e1c0893e38473eb&rid=giphy.gif
-image: https://pradeepl.com/blog/gitops/Gitops-cover.png
+#image: https://pradeepl.com/blog/gitops/Gitops-cover.png
+image: /assets/postimages/gitops.png
 optimized_image: https://pradeepl.com/blog/gitops/Gitops-cover.png
 category: DevOps
 tags:
