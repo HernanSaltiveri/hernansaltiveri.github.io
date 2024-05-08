@@ -10,7 +10,7 @@ description: GitOps is a modern approach to managing and automating the deployme
 #image: https://media0.giphy.com/media/BCs20EzQnYRXi/giphy.gif?cid=ecf05e47f232b1b79d83818de57145545e1c0893e38473eb&rid=giphy.gif
 #image: https://pradeepl.com/blog/gitops/Gitops-cover.png
 image: /assets/postimages/gitops.png
-optimized_image: https://pradeepl.com/blog/gitops/Gitops-cover.png
+optimized_image: /assets/postimages/gitops.png
 category: DevOps
 tags:
   - books
