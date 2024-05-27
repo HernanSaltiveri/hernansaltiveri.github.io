@@ -50,26 +50,4 @@ Aspetti chiave di Azure:
 
 Azure compete con altri importanti fornitori di servizi cloud come Amazon Web Services (AWS) e Google Cloud Platform (GCP) nel mercato del cloud computing in rapida crescita. Le organizzazioni utilizzano Azure per un'ampia gamma di scopi, tra cui hosting Web, archiviazione e analisi dei dati, sviluppo di applicazioni e altro ancora. È una piattaforma versatile che soddisfa le esigenze di aziende di ogni dimensione e settore.
 
-1. *Infrastructure Services*: Azure offers virtual machines, storage, and networking resources that allow users to build, deploy, and manage virtualized computing environments.
-
-2. *Platform Services*: Azure provides a variety of platform services that simplify application development, deployment, and management. These include services like Azure App Service (for hosting web applications), Azure Functions (for serverless computing), and Azure Kubernetes Service (for container orchestration).
-
-3. *Data Services*: Azure offers a range of data-related services, including Azure SQL Database, Azure Cosmos DB (a globally distributed NoSQL database), Azure Data Lake Storage, and Azure Databricks (for big data and analytics).
-
-4. *AI and Machine Learning*: Azure provides tools and services for artificial intelligence (AI) and machine learning, such as Azure Machine Learning, Azure Cognitive Services, and Azure Databricks for machine learning workloads.
-
-5. *Internet of Things (IoT)*: Azure IoT Suite enables the development and management of IoT applications and devices, allowing organizations to collect, analyze, and act on data from connected devices.
-
-6. *DevOps and Developer Tools*: Azure offers a set of tools and services for DevOps practices, including Azure DevOps Services (for collaboration and software development), Visual Studio Team Services, and Azure DevTest Labs.
-
-7. *Security and Identity*: Azure provides robust security and identity management services, including Azure Active Directory for identity and access management, Azure Security Center for threat protection, and Azure Key Vault for managing cryptographic keys and secrets.
-
-8. *Hybrid Cloud*: Azure supports hybrid cloud scenarios, allowing organizations to seamlessly integrate their on-premises data centers with Azure resources. Azure Arc is a tool that enables the management of resources across on-premises, multi-cloud, and edge environments.
-
-9. *Global Reach*: Azure has a global network of data centers (Azure regions) across multiple geographic locations, making it possible to deploy services and applications close to end-users for low-latency access.
-
-10. *Scalability and Elasticity*: Azure offers the ability to scale resources up or down based on demand, allowing organizations to pay for only the resources they use.
-
-Azure competes with other major cloud providers such as Amazon Web Services (AWS) and Google Cloud Platform (GCP) in the rapidly growing cloud computing market. Organizations use Azure for a wide range of purposes, including web hosting, data storage and analysis, application development, and more. It is a versatile platform that caters to the needs of businesses of all sizes and industries.
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YfZ0zk5Zzcw?si=xWu-A0zmQHB3iEj5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
