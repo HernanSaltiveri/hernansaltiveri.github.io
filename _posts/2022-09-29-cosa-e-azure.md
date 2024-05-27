@@ -28,25 +28,25 @@ Azure, noto anche come Microsoft Azure, è una piattaforma di cloud computing e 
 
 Aspetti chiave di Azure:
 
-1. *Servizi di infrastruttura*: Azure offre macchine virtuali, risorse di archiviazione e di rete che consentono agli utenti di creare, distribuire e gestire ambienti informatici virtualizzati.
+1. **Servizi di infrastruttura**: Azure offre macchine virtuali, risorse di archiviazione e di rete che consentono agli utenti di creare, distribuire e gestire ambienti informatici virtualizzati.
 
-2. *Servizi della piattaforma*: Azure offre una varietà di servizi della piattaforma che semplificano lo sviluppo, la distribuzione e la gestione delle applicazioni. Questi includono servizi come Servizio app di Azure (per l'hosting di applicazioni Web), Funzioni di Azure (per l'elaborazione serverless) e Servizio Azure Kubernetes (per l'orchestrazione dei contenitori).
+2. **Servizi della piattaforma**: Azure offre una varietà di servizi della piattaforma che semplificano lo sviluppo, la distribuzione e la gestione delle applicazioni. Questi includono servizi come Servizio app di Azure (per l'hosting di applicazioni Web), Funzioni di Azure (per l'elaborazione serverless) e Servizio Azure Kubernetes (per l'orchestrazione dei contenitori).
 
-3. *Servizi dati*: Azure offre una gamma di servizi relativi ai dati, tra cui il database SQL di Azure, Azure Cosmos DB (un database NoSQL distribuito a livello globale), Azure Data Lake Storage e Azure Databricks (per big data e analisi).
+3. **Servizi dati**: Azure offre una gamma di servizi relativi ai dati, tra cui il database SQL di Azure, Azure Cosmos DB (un database NoSQL distribuito a livello globale), Azure Data Lake Storage e Azure Databricks (per big data e analisi).
 
-4. *IA e machine learning*: Azure fornisce strumenti e servizi per l'intelligenza artificiale (AI) e il machine learning, come Azure Machine Learning, Azure Cognitive Services e Azure Databricks per carichi di lavoro di machine learning.
+4. **IA e machine learning**: Azure fornisce strumenti e servizi per l'intelligenza artificiale (AI) e il machine learning, come Azure Machine Learning, Azure Cognitive Services e Azure Databricks per carichi di lavoro di machine learning.
 
-5. *Internet of Things (IoT)*: Azure IoT Suite consente lo sviluppo e la gestione di applicazioni e dispositivi IoT, consentendo alle organizzazioni di raccogliere, analizzare e agire sui dati provenienti dai dispositivi connessi.
+5. **Internet of Things (IoT)**: Azure IoT Suite consente lo sviluppo e la gestione di applicazioni e dispositivi IoT, consentendo alle organizzazioni di raccogliere, analizzare e agire sui dati provenienti dai dispositivi connessi.
 
-6. *DevOps e strumenti per sviluppatori*: Azure offre un set di strumenti e servizi per le pratiche DevOps, inclusi Azure DevOps Services (per la collaborazione e lo sviluppo software), Visual Studio Team Services e Azure DevTest Labs.
+6. **DevOps e strumenti per sviluppatori**: Azure offre un set di strumenti e servizi per le pratiche DevOps, inclusi Azure DevOps Services (per la collaborazione e lo sviluppo software), Visual Studio Team Services e Azure DevTest Labs.
 
-7. *Sicurezza e identità*: Azure fornisce robusti servizi di sicurezza e gestione delle identità, tra cui Azure Active Directory per la gestione di identità e accessi, Centro sicurezza di Azure per la protezione dalle minacce e Azure Key Vault per la gestione di chiavi e segreti crittografici.
+7. **Sicurezza e identità**: Azure fornisce robusti servizi di sicurezza e gestione delle identità, tra cui Azure Active Directory per la gestione di identità e accessi, Centro sicurezza di Azure per la protezione dalle minacce e Azure Key Vault per la gestione di chiavi e segreti crittografici.
 
-8. *Cloud ibrido*: Azure supporta scenari di cloud ibrido, consentendo alle organizzazioni di integrare perfettamente i propri data center locali con le risorse di Azure. Azure Arc è uno strumento che consente la gestione  delle risorse in ambienti locali, multi-cloud ed edge.
+8. **Cloud ibrido**: Azure supporta scenari di cloud ibrido, consentendo alle organizzazioni di integrare perfettamente i propri data center locali con le risorse di Azure. Azure Arc è uno strumento che consente la gestione  delle risorse in ambienti locali, multi-cloud ed edge.
 
-9. *Portata globale*: Azure dispone di una rete globale di data center (aree di Azure) in più posizioni geografiche, consentendo di distribuire servizi e applicazioni vicino agli utenti finali per un accesso a bassa latenza.
+9. **Portata globale**: Azure dispone di una rete globale di data center (aree di Azure) in più posizioni geografiche, consentendo di distribuire servizi e applicazioni vicino agli utenti finali per un accesso a bassa latenza.
 
-10. *Scalabilità ed elasticità*: Azure offre la possibilità di aumentare o ridurre le risorse in base alla domanda, consentendo alle organizzazioni di pagare solo per le risorse che utilizzano.
+10. **Scalabilità ed elasticità**: Azure offre la possibilità di aumentare o ridurre le risorse in base alla domanda, consentendo alle organizzazioni di pagare solo per le risorse che utilizzano.
 
 Azure compete con altri importanti fornitori di servizi cloud come Amazon Web Services (AWS) e Google Cloud Platform (GCP) nel mercato del cloud computing in rapida crescita. Le organizzazioni utilizzano Azure per un'ampia gamma di scopi, tra cui hosting Web, archiviazione e analisi dei dati, sviluppo di applicazioni e altro ancora. È una piattaforma versatile che soddisfa le esigenze di aziende di ogni dimensione e settore.
 
